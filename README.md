@@ -1,2 +1,2 @@
 # Study
-A repo simply to home any material used for education reason.
+A repo simply to home any material used for education reasons.
